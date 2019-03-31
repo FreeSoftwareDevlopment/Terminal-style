@@ -2,6 +2,7 @@ language: node_js
 node_js:
   - "7"
   - "10"
+  - "10.15.3"
 script: 
   - cd stylelist/src
   - npm install
