@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+form {
+  background-color: black;
+  font-family: 'Inconsolata', monospace;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: white;
+}
