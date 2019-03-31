@@ -1,6 +1,6 @@
 # WEBELEMENTS
 
-- [H](https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-h.css) EMBED: `<link rel="stylesheet" href="https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-h.css">
+- [h](https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-h.css) EMBED: `<link rel="stylesheet" href="https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-h.css">
 `
 - [body](https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-body.css) EMBED: `<link rel="stylesheet" href="https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-body.css">
 `
@@ -10,5 +10,5 @@
 `
 - [li](https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-li.css) EMBED: `<link rel="stylesheet" href="https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-li.css">
 `
-- [li](https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-form.css) EMBED: `<link rel="stylesheet" href="https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-form.css">
+- [form](https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-form.css) EMBED: `<link rel="stylesheet" href="https://freesoftwaredevlopment.github.io/Terminal-style/styles/terminal-form.css">
 `
