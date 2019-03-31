@@ -4,6 +4,7 @@ node_js:
   - "10"
 script: 
   - cd stylelist/src
+  - npm install
   - rm min.css
   - npm start
   - cat min.css
