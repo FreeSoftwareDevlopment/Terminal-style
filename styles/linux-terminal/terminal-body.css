@@ -1,0 +1,19 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+body {
+  background-color: black;
+  font-family: 'Inconsolata', monospace;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #2fed29;
+}
+
+a {
+font-family: 'Inconsolata', monospace;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #2fed29;
+  }
