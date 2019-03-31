@@ -4,6 +4,8 @@
   "description": "",
   "main": "Gruntfile.js",
   "scripts": {
+    "dev": "grunt",
+    "start": "grunt",
     "test": "grunt"
   },
   "repository": {
