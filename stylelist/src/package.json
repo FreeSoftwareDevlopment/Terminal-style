@@ -1,0 +1,23 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeSoftwareDevlopment/Terminal-style.git"
+  },
+  "author": "Sharkbyteprojects",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreeSoftwareDevlopment/Terminal-style/issues"
+  },
+  "homepage": "https://github.com/FreeSoftwareDevlopment/Terminal-style#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0"
+  }
+}
