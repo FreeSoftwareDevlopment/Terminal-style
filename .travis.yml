@@ -5,3 +5,4 @@ node_js:
 script: 
   - npm start
   - ls
+  - cat compressed.css
