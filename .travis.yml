@@ -7,8 +7,9 @@ script:
   - npm install
   - rm min.css
   - npm start
-  - cat min.css
+  - cat ./min.css
   - cd ../..
+  - ls
   - npm start
   - ls
   - cat compressed.css
