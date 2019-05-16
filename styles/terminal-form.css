@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url("https://use.typekit.net/siy7owe.css");
 
 form {
   background-color: black;
-  font-family: 'Inconsolata', monospace;
+  font-family: "source-code-pro", monospace;
   padding: 5px 25px;
   font-size: 18px;
   margin: 0;
